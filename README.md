@@ -29,7 +29,7 @@ I've developed and delivered around 6+ projects, including static websites, dyna
 - CodeIgniter (PHP Framework)  
 - Node.js, Express.js  
 
-### 🧠 Technologies
+### 🚀 Technologies
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
