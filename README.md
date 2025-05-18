@@ -4,24 +4,8 @@ I've developed and delivered around 6+ projects, including static websites, dyna
 
 
 ## 🚀 Skills
-## 🚀 Skills
 
-### 🖥️ Frontend
-- HTML5 ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
-- CSS3 ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
-- JavaScript (ES6+) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
-- jQuery ![jQuery](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg)  
-- Bootstrap ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg)  
-- MUI (Material UI) ![MaterialUI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg)  
-- React.js ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) (with Bootstrap integration)  
-- CodeIgniter (frontend templating) ![CodeIgniter](https://seeklogo.com/images/C/codeigniter-logo-099D0D27DA-seeklogo.com.png)  
-
-### 🔧 Backend
-- CodeIgniter (PHP Framework) ![CodeIgniter](https://seeklogo.com/images/C/codeigniter-logo-099D0D27DA-seeklogo.com.png)  
-- Node.js ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)  
-- Express.js ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)  
-
-## 🖥️ Frontend Skills
+## 🖥️ Frontend 
 
 - HTML5, CSS3, JavaScript (ES6+), jQuery  
 - Bootstrap, MUI (Material UI)  
@@ -54,7 +38,7 @@ I've developed and delivered around 6+ projects, including static websites, dyna
 
 ---
 
-## 🛠️ Tools & Integrations
+## 🛠️ Tools & Technologis
 
 - Postman for API testing  
 - AJAX for dynamic data handling  
@@ -71,6 +55,31 @@ I've developed and delivered around 6+ projects, including static websites, dyna
 ![REST API](https://img.shields.io/badge/REST--API-025669?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ---
+
+---
+
+## 📂 Projects
+
+### Hostel Management System :
+- Developed a multi-branch hostel management platform with features like floor and room allocation, tenant management, and rent calculation based on sharing types (daily, weekly, monthly).  
+- Implemented role-based admin access: main admin can manage all hostels, while allocated admins manage specific hostels.  
+- Automated status updates for floor and room occupancy to optimize allocation and availability tracking.
+
+### E-Commerce Website :
+- Built a dynamic e-commerce platform featuring product catalog, filters, related product recommendations, and order management including refund and cancellations.  
+- Integrated secure user authentication using JWT tokens and 2Factor SMS gateway for seamless signup/login.  
+- Implemented payment gateway integrations with Razorpay for smooth transaction processing.  
+
+---
+
+For more projects and details, visit my [GitHub repositories](https://github.com/narmathi).
+
+## 🔗 Links
+
+- GitHub: [github.com/narmathi]
+- LinkedIn:[linkedin.com/in/narmathi](https://linkedin.com/in/narmathi](https://www.linkedin.com/in/narmathi-gp-a888b31b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- Email: narmathigopalan2002@gmail.com  
+
 
 
 
