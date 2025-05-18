@@ -5,29 +5,23 @@ I've developed and delivered around 6+ projects, including static websites, dyna
 
 ## 🚀 Skills
 
-### 🖥️ Frontend
-- **HTML5** ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
-- **CSS3** ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
-- **JavaScript (ES6+)** ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
-- **jQuery** ![jQuery](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg)  
-- **Bootstrap** ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg)  
-- **MUI (Material UI)** ![MaterialUI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg)  
-- **React.js** ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
-- **CodeIgniter (Frontend templating)** ![CodeIgniter](https://seeklogo.com/images/C/codeigniter-logo-099D0D27DA-seeklogo.com.png)  
+## 🚀 My Tech Stack
 
-### 🔧 Backend
-- **CodeIgniter (PHP Framework)** ![CodeIgniter](https://seeklogo.com/images/C/codeigniter-logo-099D0D27DA-seeklogo.com.png)  
-- **Node.js** ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)  
-- **Express.js** ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)  
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### 🛠️ Tools & Integrations
-- **Postman** ![Postman](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg)  
-- **AJAX** (Asynchronous JavaScript and XML)  
-- **Razorpay** ![Razorpay](https://seeklogo.com/images/R/razorpay-logo-12E36491E3-seeklogo.com.png)  
-- **PayUMoney**  
-- **REST API development**  
-- **JWT Token Authentication**  
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
----
+### Tools & Platforms
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 
 
