@@ -4,6 +4,22 @@ I've developed and delivered around 6+ projects, including static websites, dyna
 
 
 ## 🚀 Skills
+## 🚀 Skills
+
+### 🖥️ Frontend
+- HTML5 ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
+- CSS3 ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
+- JavaScript (ES6+) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
+- jQuery ![jQuery](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg)  
+- Bootstrap ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg)  
+- MUI (Material UI) ![MaterialUI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg)  
+- React.js ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) (with Bootstrap integration)  
+- CodeIgniter (frontend templating) ![CodeIgniter](https://seeklogo.com/images/C/codeigniter-logo-099D0D27DA-seeklogo.com.png)  
+
+### 🔧 Backend
+- CodeIgniter (PHP Framework) ![CodeIgniter](https://seeklogo.com/images/C/codeigniter-logo-099D0D27DA-seeklogo.com.png)  
+- Node.js ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)  
+- Express.js ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)  
 
 ## 🖥️ Frontend Skills
 
