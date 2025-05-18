@@ -76,8 +76,8 @@ For more projects and details, visit my [GitHub repositories](https://github.com
 
 ## 🔗 Links
 
-- GitHub: [github.com/narmathi]
-- LinkedIn:[linkedin.com/in/narmathi](https://linkedin.com/in/narmathi](https://www.linkedin.com/in/narmathi-gp-a888b31b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- GitHub: [github.com/narmathi](https://github.com/narmathi)  
+- LinkedIn: [linkedin.com/in/narmathi](https://www.linkedin.com/in/narmathi-gp-a888b31b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - Email: narmathigopalan2002@gmail.com  
 
 
