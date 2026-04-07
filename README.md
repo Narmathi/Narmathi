@@ -5,11 +5,30 @@ I've developed and delivered around 10+ projects, including static websites, dyn
 
 ## 🚀 Skills
 
+## 🔧 Backend Skills
+
+- Node.js, Express.js, Fastify
+- CodeIgniter (PHP Framework)  
+
+
+### 🚀 Technologies
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+
+---
+
 ## 🖥️ Frontend 
 
 - HTML5, CSS3, JavaScript (ES6+), jQuery  
 - Bootstrap, MUI (Material UI)  
 - React.js with Bootstrap integration  
+- NextJS
 - CodeIgniter (Frontend templating)
 
 ### 🚀 Technologies
@@ -24,27 +43,15 @@ I've developed and delivered around 10+ projects, including static websites, dyn
 
 ---
 
-## 🔧 Backend Skills
-
-- CodeIgniter (PHP Framework)  
-- Node.js, Express.js  
-
-### 🚀 Technologies
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
----
-
 ## 🛠️ Tools & Technologis
 
-- Postman for API testing  
-- AJAX for dynamic data handling  
 - Razorpay & PayUMoney Payment Gateway Integration  
 - REST API development for Mobile Applications  
-- JWT Token Authentication  
+- JWT Token Authentication 
+- Authorization handling
+- Postman for API testing  
+- AJAX for dynamic data handling  
+ 
 
 ### ⚙️ Tools
 
