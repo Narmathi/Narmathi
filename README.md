@@ -8,6 +8,14 @@ I enjoy building end-to-end applications, from developing intuitive user interfa
 
 ## 🚀 Skills
 
+
+## 🖥️ Frontend 
+
+- HTML5, CSS3, JavaScript (ES6+), jQuery  
+- Bootstrap, MUI (Material UI)  
+- React.js 
+- NextJS
+
 ## 🔧 Backend Skills
 
 - Node.js, Express.js, Fastify
@@ -20,19 +28,9 @@ I enjoy building end-to-end applications, from developing intuitive user interfa
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
 
 ---
 
-## 🖥️ Frontend 
-
-- HTML5, CSS3, JavaScript (ES6+), jQuery  
-- Bootstrap, MUI (Material UI)  
-- React.js with Bootstrap integration  
-- NextJS
-- CodeIgniter (Frontend templating)
 
 ### 🚀 Technologies
 
