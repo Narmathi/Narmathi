@@ -7,11 +7,18 @@ I enjoy building end-to-end applications, from developing intuitive user interfa
 
 
 ## 🚀 Skills
-### 🚀 Frontend
+### 🚀 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6%2B-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+---
+
+### 🎨 Frontend
 
 ![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6%2B-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
@@ -23,7 +30,6 @@ I enjoy building end-to-end applications, from developing intuitive user interfa
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge\&logo=fastify\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
 ---
 
@@ -32,7 +38,6 @@ I enjoy building end-to-end applications, from developing intuitive user interfa
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
 ---
 
@@ -48,10 +53,11 @@ I enjoy building end-to-end applications, from developing intuitive user interfa
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
 ![Casbin](https://img.shields.io/badge/Casbin-RBAC-5C6BC0?style=for-the-badge)
 
-* JWT-based authentication
-* Role-Based Access Control (RBAC) with Casbin
-* OTP-based authentication
-* Authorization and access management
+* JWT-based Authentication
+* Role-Based Access Control (RBAC)
+* Casbin Authorization
+* OTP-based Login
+* Access Control & Authorization
 
 ---
 
@@ -76,13 +82,15 @@ I enjoy building end-to-end applications, from developing intuitive user interfa
 
 ---
 
-### 🔗 Development Practices
+### 🔗 Engineering Practices
 
-* REST API development and integration
-* Git-based version control and collaboration
+* REST API Development & Integration
+* API Authentication & Authorization
+* Third-Party API Integration
+* Git-based Version Control
 * CI/CD with GitHub Actions
 * Containerization with Docker
-* Agile development methodology
+* Agile Development
 
 ---
 
