@@ -1,6 +1,9 @@
-Hi, I'm Narmathi — a passionate Full Stack Developer with 3 years of professional experience.
+Hi, I’m Narmathi — a Full Stack Developer with around 3 years of professional experience building responsive and scalable web applications.
 
-I've developed and delivered around 10+ projects, including static websites, dynamic web applications, and fully functional e-commerce platforms. I'm enthusiastic about building clean, efficient, and scalable web solutions using modern technologies.
+I have worked on real-world products including e-commerce platforms, management systems, CRM applications, and other business-focused web solutions. My experience spans frontend and backend development using JavaScript, React.js, Next.js, Node.js, Express.js, and Fastify, along with REST API development and database integration using MySQL and PostgreSQL.
+
+I enjoy building end-to-end applications, from developing intuitive user interfaces and backend APIs to implementing authentication, payment integrations, database-driven features, and third-party services. I focus on writing clean, maintainable code and delivering reliable solutions that solve real business requirements.
+
 
 
 ## 🚀 Skills
