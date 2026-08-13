@@ -95,16 +95,72 @@ I enjoy building end-to-end applications, from developing intuitive user interfa
 ---
 
 ## 📂 Projects
+## 🚀 Featured Projects
 
-### Hostel Management System :
-- Developed a multi-branch hostel management platform with features like floor and room allocation, tenant management, and rent calculation based on sharing types (daily, weekly, monthly).  
-- Implemented role-based admin access: main admin can manage all hostels, while allocated admins manage specific hostels.  
-- Automated status updates for floor and room occupancy to optimize allocation and availability tracking.
+### 💕 Dating Application — Backend & CRM Platform
 
-### E-Commerce Website :
-- Built a dynamic e-commerce platform featuring product catalog, filters, related product recommendations, and order management including refund and cancellations.  
-- Integrated secure user authentication using JWT tokens and 2Factor SMS gateway for seamless signup/login.  
-- Implemented payment gateway integrations with Razorpay for smooth transaction processing.  
+A full-stack dating application with a dedicated CRM platform for managing users, subscriptions, payments, and application workflows.
+
+**Tech Stack:**
+`Next.js` `React.js` `Node.js` `TypeScript` `Fastify` `Prisma` `PostgreSQL` `JWT` `Casbin` `AWS EC2` `AWS S3`
+
+**Key Features:**
+
+* Developed REST APIs for user management, subscriptions, and application workflows.
+* Implemented JWT-based authentication and role-based access control using Casbin.
+* Built CRM interfaces using Next.js for managing users and application data.
+* Designed database models and relationships using Prisma ORM and PostgreSQL.
+* Integrated subscription and payment workflows.
+* Used AWS EC2 for backend deployment and AWS S3 for asset storage.
+
+---
+
+### 🛒 E-Commerce Platform
+
+Developed an end-to-end e-commerce platform with product management, shopping cart, checkout, payments, and order management functionality.
+
+**Tech Stack:**
+`React.js` `JavaScript` `CodeIgniter` `MySQL` `Razorpay` `REST API` `AJAX`
+
+**Key Features:**
+
+* Developed product listing, filtering, search, and product management functionality.
+* Implemented shopping cart and checkout workflows.
+* Integrated Razorpay for online payment processing.
+* Implemented OTP-based login and customer authentication.
+* Developed REST APIs and AJAX-based dynamic data handling.
+* Built admin workflows for managing products, customers, and orders.
+
+---
+
+### 🏠 Hostel Management System
+
+A web-based hostel management system for managing multiple branches, rooms, beds, tenants, rent, and administrative operations.
+
+**Tech Stack:**
+`React.js` `Node.js` `Express.js` `MySQL` `REST API`
+
+**Key Features:**
+
+* Developed multi-branch hostel management functionality.
+* Implemented room, floor, bed, and tenant management.
+* Built rent management supporting monthly, weekly, and daily rental types.
+* Implemented branch-level and centralized administrative access.
+* Designed database structures for rooms, tenants, services, and rental management.
+* Developed REST APIs for frontend and backend communication.
+
+---
+
+## 💡 What I Work On
+
+* Full-stack web application development
+* REST API development and integration
+* Authentication and authorization
+* Database design and integration
+* E-commerce and business application development
+* Payment gateway integration
+* Cloud deployment and application infrastructure
+
 
 ---
 
